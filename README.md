@@ -1,6 +1,8 @@
 # design-photoshop
 
-Some of the concepts, sketches I made a while ago in PS.
+I retired photoshop as a main tool a while ago. Great tool and all, but Figma and other web tools are more comfy and productive.
+
+Some of the concepts, sketches I made a while ago, archived.
 
 <div>
 <img src="https://github.com/Bembit/design-photoshop/blob/main/design%20images%20only/4.png" width="48%" height="auto">
